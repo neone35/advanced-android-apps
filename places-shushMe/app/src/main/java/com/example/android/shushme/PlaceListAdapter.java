@@ -104,3 +104,4 @@ public class PlaceListAdapter extends RecyclerView.Adapter<PlaceListAdapter.Plac
 
     }
 }
+
